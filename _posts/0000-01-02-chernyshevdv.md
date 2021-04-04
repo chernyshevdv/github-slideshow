@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Crocodiles can't fy
 Use the left arrow to go back! 
